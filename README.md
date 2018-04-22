@@ -1,5 +1,6 @@
 # parser
 Parser for Simple Actor Language
+To be used with ARnActorModel
 
 from ==>
                 @"Actor bla
