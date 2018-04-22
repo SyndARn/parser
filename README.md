@@ -3,12 +3,12 @@ Parser for Simple Actor Language
 To be used with ARnActorModel
 
 from ==>
-                @"Actor bla
+                Actor bla
                     Behavior(""bla"")
                     {
                         Send Console (""bla"")
                     }
-                 ";
+                
                  
                  
 to ==>
