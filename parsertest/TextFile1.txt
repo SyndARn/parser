@@ -1,0 +1,15 @@
+﻿public class  bla  : BaseActor
+{
+public public class  bla ()
+{
+AddBehavior( new Behavior(
+Pattern = () => {
+"bla"}
+,
+Apply = () => 
+{
+SendNode Send
+ Console "bla"}
+)) ;
+}
+}
